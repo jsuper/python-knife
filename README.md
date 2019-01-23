@@ -1,2 +1,3 @@
-# python-knife
-用python 编写的常用工具类
+# 本仓库主要用于存放一些用python编写的日常工具
+
+主要存放用python编写的日常工具， 所有代码均采用python3版本。
